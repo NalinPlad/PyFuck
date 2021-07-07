@@ -2,14 +2,14 @@ import re
 import argparse
 
 MAPPINGS = {
-    '+': 'add',
-    '-': 'subtract',
-    '>': 'increment_pointer',
-    '<': 'decrement_pointer',
-    '.': 'output',
-    ',': 'input',
-    '[': 'skip_open',
-    ']': 'skip_close'
+    'pogger': 'add',
+    'pog': 'subtract',
+    'yankee': 'increment_pointer',
+    'brim': 'decrement_pointer',
+    'airpod': 'output',
+    'shotty': 'input',
+    'amogus': 'skip_open',
+    'sus': 'skip_close'
 }
 
 
